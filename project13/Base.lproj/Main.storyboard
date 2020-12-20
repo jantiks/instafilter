@@ -20,10 +20,9 @@
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="RZC-w0-9Nl">
                                         <rect key="frame" x="8" y="8" width="358" height="625"/>
-                                        <color key="backgroundColor" systemColor="systemPinkColor" red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </imageView>
                                 </subviews>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstItem="RZC-w0-9Nl" firstAttribute="top" secondItem="3C3-iT-UH2" secondAttribute="topMargin" id="1HR-Fi-8iT"/>
                                     <constraint firstItem="RZC-w0-9Nl" firstAttribute="centerX" secondItem="3C3-iT-UH2" secondAttribute="centerX" id="677-my-Zdk"/>
